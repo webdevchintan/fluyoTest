@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217337347385",
+    "project_id": "rn-ts-test-90176",
+    "storage_bucket": "rn-ts-test-90176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217337347385:android:2f2e922ad8fd2081137ce8",
+        "android_client_info": {
+          "package_name": "com.fluyotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNw9yXGSR1_gkG0KcknlBrOq5wjr9uCSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
